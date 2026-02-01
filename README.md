@@ -9,19 +9,20 @@ This project is intended for educational and research purposes and does not prov
 ---
 
 ## Features
-- Log daily mood and stress using sliders
-- Annotate entries with contextual tags (sleep, study, social, exercise)
-- Add optional notes for each day
-- Visualize trends over time in a dashboard
-- Export personal data as a CSV file
-- Local data storage using CSV
+- Log daily mood and stress using sliders  
+- Annotate entries with contextual tags (sleep, study, social, exercise)  
+- Add optional notes for each day  
+- Visualize trends over time in a dashboard  
+- Export personal data as a CSV file  
+- Streak-based reward system to encourage daily use  
+- Local data storage using CSV  
 
 ---
 
 ## Users
 **Target users:** University students
 
-A small usability study was conducted with 3–5 participants to evaluate ease of use and clarity of the interface.
+A small usability study was conducted with 5 participants to evaluate ease of use and clarity of the interface.
 
 ---
 
@@ -31,12 +32,11 @@ Participants were asked to:
 - Add contextual tags
 - Interpret their weekly trend from the dashboard
 
-Feedback indicated that:
-- Fast and simple input was important
-- Visual trends helped users reflect on their habits
-- Contextual tags made entries more meaningful
+Feedback indicated that:- Difficulties in locating or interpreting the dashboard  
+- A desire for more motivational features  
+- The need for higher-level summaries instead of only raw graphs  
 
-Based on feedback, the interface was refined for clarity and ease of use.
+Based on feedback, the interface was refined.
 
 ---
 
@@ -54,6 +54,8 @@ Based on feedback, the interface was refined for clarity and ease of use.
 -requirements.txt
 -README.md
 -data/
+-evaluation/
+-user_study.md
 
 
 ---
